@@ -1,0 +1,21 @@
+.userList{
+    list-style-type: none;
+    padding: 1rem;
+}
+
+.list{
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.list button{
+    margin-left: 1rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    font-weight: bolder;
+    font-size: 0.8rem;
+    border: 2px solid gray;
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+    cursor: pointer;
+}
